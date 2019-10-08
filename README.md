@@ -1,2 +1,2 @@
 # miscellaneous
-some c++ projects
+some  projects
