@@ -1,2 +1,0 @@
-# miscellaneous
-some  projects
